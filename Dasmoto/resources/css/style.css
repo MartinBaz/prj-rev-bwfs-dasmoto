@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+p {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-color: #cccccc;
+  background-image: url(./image/pattern.jpeg);
+  text-align: center;
+  font-size: 100px;
+  color: Khaki;
+}
+
+h2 {
+  color: white;
+  font-size: 32px;
+}
+
+#szczotki {background-color: LightGreen
+}
+
+#ramki {
+  background-color: Tomato;
+}
+
+#farby {background-color: PowderBlue}
+
+.price {
+  color: Blue;
+  font-weight: bold;
+}
